@@ -1,0 +1,1 @@
+usando o GUITBASH para criar um repositorio novo e praticando comandos na CLI do GIT
